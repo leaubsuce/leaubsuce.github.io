@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://leaubsuce.github.io/leaubsuce.txt.gz
+Sitemap: https://leaubsuce.github.io/app/leaubsuce.txt.gz
+Sitemap: https://leaubsuce.github.io/assets/leaubsuce.txt.gz
+Sitemap: https://leaubsuce.github.io/css/leaubsuce.txt.gz
+Sitemap: https://leaubsuce.github.io/includes/leaubsuce.txt.gz
+Sitemap: https://leaubsuce.github.io/item/leaubsuce.txt.gz
+Sitemap: https://leaubsuce.github.io/src/leaubsuce.txt.gz
